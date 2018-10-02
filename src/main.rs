@@ -1,5 +1,4 @@
 mod canvas;
-mod math;
 
 fn main() {
     let mut cvs = canvas::Canvas::new(5,3); 
