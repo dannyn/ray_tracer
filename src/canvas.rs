@@ -2,7 +2,7 @@ use std::fs;
 use std::f64;
 use std::ops::{Add, Sub, Mul};
 
-#[derive(Debug, Clone)]
+#[derive(Debug, Clone, Copy)]
 pub struct Colour {
     pub r: f64, 
     pub g: f64, 

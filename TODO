@@ -1,0 +1,7 @@
+
+* Transformations
+* Scene, for more than one object
+* More primatives
+* organize scene objects into primatives
+* rip out ray trace, so that a program is a bunch of primatives that implement scene_objects and use the lib
+* parallelization 
